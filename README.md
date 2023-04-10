@@ -8,7 +8,7 @@ I am a front-end developer who loves React!
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [marcmujica@yahoo.com](mailto:marcmujica@yahoo.com)
-* 🧠  I'm learning Algorithms
+* 🧠  I'm learning DSA's
 * 🤝  I'm open to collaborating on projects
 * ⚡  I love to game, play billiards, hang out with family and friends, and snowboard
 
